@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-I welcome contribution to [BensonFinalProject1]! To ensure  a smooth collaboration, please adhere to the following guidelines:
+I welcome contribution to [github-final-project]! To ensure  a smooth collaboration, please adhere to the following guidelines:
 
 ## Getting started
 
